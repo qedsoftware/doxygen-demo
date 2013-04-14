@@ -2,7 +2,7 @@ Description
 =============================================
 Demonstration of using Doxygen to automatically generate documentation for C++ code.
 
-Authoring credits go to Brent Nash who used this code as part of a Doxygen tutorial for CS102 at USC (http://merlot.usc.edu/cs102-s12/doxygen/).   
+Authoring credits go to Brent Nash who wrote this code for a Doxygen tutorial delivered at USC (http://merlot.usc.edu/cs102-s12/doxygen/).   
 
 I only added CMake support and a README.
 
