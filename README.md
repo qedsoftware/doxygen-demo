@@ -6,6 +6,7 @@ Authoring credits go to Brent Nash who used this code as part of a Doxygen tutor
 
 I only added CMake support and a README.
 
+William Wu, 2013-03-25 22:41
 
 Procedure for building code using CMake:
 =============================================
@@ -62,5 +63,3 @@ Pro tip: to launch an instant localhost HTTP server for viewing the HTML documen
   [doxygen-demo/src/html]$ python -m SimpleHTTPServer
 
 then go to http://localhost:8000/
-
-- William Wu, 2013-03-25 22:41
