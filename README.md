@@ -63,3 +63,5 @@ Pro tip: to launch an instant localhost HTTP server for viewing the HTML documen
     doxygen-demo/src/html]$ python -m SimpleHTTPServer
 
 then go to http://localhost:8000/
+
+- W.Wu, 2013 Mar 26
