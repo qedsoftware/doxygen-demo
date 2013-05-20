@@ -8,7 +8,7 @@ I only added CMake support and a README.
 
 William Wu, 2013-03-25 22:41
 
-Procedure for building code using CMake:
+Building code using CMake:
 =============================================
 
 	[doxygen-demo]$ mkdir build
@@ -44,7 +44,7 @@ and you can execute the program in the build/src directory as follows:
 For more information on using CMake, check out http://www.cmake.org/cmake/help/cmake_tutorial.html
 
 
-Procedure for constructing Doxygen documentation:
+Constructing Doxygen documentation:
 =============================================
 
 	[doxygen-demo]$ cd src
@@ -63,5 +63,3 @@ Pro tip: to launch an instant localhost HTTP server for viewing the HTML documen
     doxygen-demo/src/html]$ python -m SimpleHTTPServer
 
 then go to http://localhost:8000/
-
-- W.Wu, 2013 Mar 26
